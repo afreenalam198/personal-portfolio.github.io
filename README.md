@@ -1,6 +1,6 @@
 # personal-portfolio.github.io
 
-This is a Personal Portfolio website featuring my FreeCodeCamp projects.
+This is a Personal Portfolio website featuring my FreeCodeCamp course projects.
 
 This project is part of the FreeCodeCamp Responsive Web Design Certification under the Responsive Web Design Projects section.
 
